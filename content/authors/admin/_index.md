@@ -11,7 +11,7 @@ role: Student of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Transylvania University
-  url: ""
+  url: "https://www.transy.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -34,10 +34,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto::pasykes21@transy.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/PerryS02
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/perrysykes/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Perry Sykes is a senior at Transylvania University. His fields of interest are programming, artificial intelligence, and web development. He will have a Bachelors of Arts degree in Computer Science in May of 2021.
+Perry Sykes is currently a student at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, and Operating Systems. He has worked as a Senior Student Web Developer at Wofford College in the Information Management department.
