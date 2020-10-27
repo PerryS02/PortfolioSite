@@ -1,0 +1,18 @@
+# Theme metadata
+name = "yellow"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#ffd200"
+
+# Menu
+menu_primary = "#ffd200"
+menu_text = "#111"
+menu_text_active = "#0083ff"
+menu_title = "#0083ff"
+
+# Home sections
+home_section_odd = "rgb(20, 20, 20)"
+home_section_even = "rgb(40, 40, 40)"
