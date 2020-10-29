@@ -14,7 +14,7 @@ organizations:
   url: "https://www.transy.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
 - Artificial Intelligence
@@ -60,4 +60,4 @@ user_groups:
 - Visitors
 ---
 
-Perry Sykes is currently a student at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, and Operating Systems. He has worked as a Senior Student Web Developer at Wofford College in the Information Management department.
+Perry Sykes is currently a student at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, and Operating Systems. He has worked as a Senior Student Web Developer at Wofford College in the Information Management Department.
