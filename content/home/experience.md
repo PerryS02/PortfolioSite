@@ -32,6 +32,15 @@ date_format = "Jan 2006"
   * Programming Windows Forms
   """
 
+  [[experience]]
+    title = "Computer Science Tutor"
+    company = "Transylvania Academic Center for Excellence"
+    company_url = "https://www.transytutoring.com"
+    location = "Lexington, KY"
+    date_start = "2020-09-01"
+    date_end = "present"
+    description = """Tutored computer science students in courses such as Logic & Problem Solving and Data Structures"""
+
 [[experience]]
   title = "Summer Technology Worker"
   company = "Spartaburg School District 7"
