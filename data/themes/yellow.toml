@@ -16,3 +16,6 @@ menu_title = "#111"
 # Home sections
 home_section_odd = "rgb(255, 252, 245)"
 home_section_even = "rgb(250, 247, 240)"
+
+# Footer
+footer = "rgb (255, 252, 245)"
