@@ -14,5 +14,5 @@ menu_text_active = "#0083ff"
 menu_title = "#0083ff"
 
 # Home sections
-home_section_odd = "rgb(20, 20, 20)"
-home_section_even = "rgb(40, 40, 40)"
+home_section_odd = "rgb(255, 252, 245)"
+home_section_even = "rgb(250, 248, 240)"
