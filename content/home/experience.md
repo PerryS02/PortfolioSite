@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
   [[experience]]
     title = "Computer Science Tutor"
-    company = "Transylvania Academic Center for Excellence"
+    company = "Transylvania University Academic Center for Excellence"
     company_url = "https://www.transytutoring.com"
     location = "Lexington, KY"
     date_start = "2020-09-01"
