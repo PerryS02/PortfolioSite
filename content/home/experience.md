@@ -38,7 +38,7 @@ date_format = "Jan 2006"
     company_url = "https://www.transytutoring.com"
     location = "Lexington, KY"
     date_start = "2020-09-01"
-    description = """Tutored computer science students in courses such as Logic & Problem Solving and Data Structures"""
+    description = """Tutored computer science students in courses such as Logic & Problem Solving and Data Structures."""
 
 [[experience]]
   title = "Summer Technology Worker"
