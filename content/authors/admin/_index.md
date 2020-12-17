@@ -24,8 +24,14 @@ interests:
 education:
   courses:
   - course: Expected BA in Computer Science
-    institution: Transylvania university
+    institution: Transylvania University
     year: 2021
+  - course: Machine Intelligence
+    institution:
+    year:
+  -course: Data Structures
+    institution:
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,4 +66,4 @@ highlight_name: false
 # - Visitors
 ---
 
-Perry Sykes is currently a senior at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, Operating Systems, and Computer Graphics. He has worked as a Senior Student Web Developer at Wofford College in the Information Management Department.
+Perry Sykes is currently a senior at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, Operating Systems, Machine Intelligence, and Computer Graphics. He has worked as a Senior Student Web Developer at Wofford College in the Information Management Department.
