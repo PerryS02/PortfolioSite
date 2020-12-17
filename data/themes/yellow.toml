@@ -5,14 +5,14 @@ name = "yellow"
 light = true
 
 # Primary
-primary = "#35DC00"
+primary = "#11C5EC"
 
 # Menu
-menu_primary = "#35DC00"
+menu_primary = "#11C5EC"
 menu_text = "#0A0A0A"
 menu_text_active = "#0A0A0A"
 menu_title = "#0A0A0A"
 
 # Home sections
-home_section_odd = "rgb(20, 20, 20)"
-home_section_even = "rgb(30, 30, 30)"
+home_section_odd = "rgb(225, 225, 225)"
+home_section_even = "rgb(215, 215, 215)"
