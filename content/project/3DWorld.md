@@ -5,7 +5,7 @@ title: "3D World"
 subtitle: "subtitle"
 summary: "Displays 3D shapes in OpenGL window."
 authors: [Perry Sykes]
-tags: [C++][OpenGL]
+tags: [C++]
 categories: []
 date: 2020-08-04T19:57:35-04:00
 lastmod: 2020-08-04T19:57:35-04:00
