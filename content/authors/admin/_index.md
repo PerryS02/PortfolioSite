@@ -26,12 +26,6 @@ education:
   - course: Expected BA in Computer Science
     institution: Transylvania University
     year: 2021
-  - course: Machine Intelligence
-    institution:
-    year:
-  -course: Data Structures
-    institution:
-    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
