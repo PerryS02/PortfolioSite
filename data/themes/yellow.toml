@@ -2,17 +2,17 @@
 name = "yellow"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#2C8323"
 
 # Menu
-menu_primary = "#2C8323"
-menu_text = "#FFFCF5"
-menu_text_active = "#FFFCF5"
-menu_title = "#FFFCF5"
+menu_primary = "#35DC00"
+menu_text = "#0A0A0A"
+menu_text_active = "#0A0A0A"
+menu_title = "#0A0A0A"
 
 # Home sections
-home_section_odd = "rgb(255, 252, 245)"
-home_section_even = "rgb(250, 247, 240)"
+home_section_odd = "rgb(10, 10, 10)"
+home_section_even = "rgb(20, 20, 20)"
