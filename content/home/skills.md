@@ -18,37 +18,31 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Coding"
-  description = "80%"
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Web Development"
-  description = "60%"  
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "70%"
 
 [[feature]]
     icon = "apple"
     icon_pack = "fab"
     name = "Apple"
-    description = "70%"
 
 [[feature]]
-    icon = "git"
+    icon = "github"
     icon_pack = "fab"
     name = "Git"
-    description = "50%"
 
 [[feature]]
-    icon = "hiking"
-    icon_pack = "fas"
-    name = "Ruggedness"
-    description = "10%"
+    icon = "microsoft"
+    icon_pack = "fab"
+    name = "asp.net"
 
 # Uncomment to use emoji icons.
 # [[feature]]
