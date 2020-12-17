@@ -3,7 +3,7 @@
 
 title: "Bresenham"
 subtitle: "subtitle"
-summary: "Bresenham Line Drawing Algo"
+summary: "Bresenham Line Drawing Algorithm"
 authors: [Perry Sykes]
 tags: [C++]
 categories: []

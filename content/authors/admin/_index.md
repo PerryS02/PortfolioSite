@@ -17,13 +17,13 @@ organizations:
 bio:
 
 interests:
-- Artificial Intelligence
 - Programming
 - Web Design
+- Software Development
 
 education:
   courses:
-  - course: BA in Computer Science
+  - course: Expected BA in Computer Science
     institution: Transylvania university
     year: 2021
 
@@ -55,9 +55,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Perry Sykes is currently a student at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, and Operating Systems. He has worked as a Senior Student Web Developer at Wofford College in the Information Management Department.
+Perry Sykes is currently a senior at Transylvania University studying Computer Science. Completed courses include Software Engineering, Data Structures, Discrete Mathematics, Robotics, Operating Systems, and Computer Graphics. He has worked as a Senior Student Web Developer at Wofford College in the Information Management Department.
