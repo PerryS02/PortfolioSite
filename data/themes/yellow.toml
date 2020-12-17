@@ -5,10 +5,10 @@ name = "yellow"
 light = true
 
 # Primary
-primary = "#11C5EC"
+primary = "#197BFF"
 
 # Menu
-menu_primary = "#11C5EC"
+menu_primary = "#197BFF"
 menu_text = "#0A0A0A"
 menu_text_active = "#0A0A0A"
 menu_title = "#0A0A0A"
