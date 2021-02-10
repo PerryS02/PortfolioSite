@@ -3,7 +3,7 @@
 
 title: "Memory Game"
 subtitle: "subtitle"
-summary: "Bresenham Line Drawing Algorithm"
+summary: "Swift Memory Game"
 authors: [Perry Sykes]
 tags: [Swift]
 categories: []
@@ -12,7 +12,7 @@ lastmod: 2021-01-21T19:57:35-04:00
 featured: false
 draft: false
 
-external_link: https://github.com/PerryS02/memoryGameApp
+external_link: https://github.com/PerryS02/SwiftMemory
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
